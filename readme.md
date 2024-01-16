@@ -34,4 +34,5 @@ http://localhost:8080/main
 ### 1. Frontend https://github.com/NickiRafal/Currency_Exchange_Frontend.git
 ### 2. Beckend  https://github.com/NickiRafal/Currency_Exchange_Beckend.git
 
-### Aplikacja nie jest ukończona ! Na chwilę obecną działa tylko rejestracja użytkownika.
+### Aplikacja nie jest ukończona ! Wszystkie endpointy sprawne.
+### Na chwilę obecną na froncie działa tylko rejestracja użytkownika.
